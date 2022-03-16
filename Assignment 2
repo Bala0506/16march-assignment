@@ -1,0 +1,15 @@
+S=input()
+l=list(s)
+O=[]
+E=[]
+for i in l:
+     i=int(i)
+     if i%2==0:
+        e.append(i)
+     Else:
+         O.append(i)
+for i in range (len(0)):
+       Print (o[i],end=' ')
+Print (' ',end=' ')
+for i in range (len(e)):
+       Print (e[i],end=' ')
